@@ -1,0 +1,10 @@
+I am launching MishTee-Magic, a D2C brand for artisanal Indian sweets.
+
+The focus is on Purity (A2 milk, Organics ingredients) and health-first sweets (low-sughar, low-gluten).
+
+Based on a Terracotta and Gold aesthetic, suggest:
+
+3 Pithy Slogans (e.g., 'Heritage in every bite').
+A short 2-sentence 'Our Story' blurb for the customer login page.
+Names for 4 'Collection' categories (e.g., 'The Saffron Series')."
+Structure your response in tabular format with columns 'Group' (e.g., slogan) and 'Output' (e.g., bullet pointed for each slogan)
